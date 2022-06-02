@@ -36,7 +36,7 @@
     <a href="https://github.com/TheCodinggDude/Algo-Visualizer"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="algo-visualizer-sparsh.vercel.app/">View Demo</a>
+    <a href="https://algo-visualizer-sparsh.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/TheCodinggDude/Algo-Visualizer/issues">Report Bug</a>
     ·
@@ -74,7 +74,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://algo-visualizer-sparsh.vercel.app/)
 
 Algorithm Visualizer is an interactive online platform that visualizes algorithms from code. Currently these include Sorting, Path finding and Convex Hull Algorithms. More Algorithms will be coming soon!!
 
@@ -200,5 +200,5 @@ Github Link: [https://github.com/TheCodinggDude](https://github.com/TheCodinggDu
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/sparsh-malhotra/
 [product-screenshot]: public/Screenshot.png
